@@ -1,0 +1,41 @@
+name: Lesson feedback
+description: A typo, a confusing explanation, or a diagram that could be clearer
+labels: [lesson-feedback]
+body:
+  - type: dropdown
+    id: lesson
+    attributes:
+      label: Which lesson?
+      options:
+        - 00 Start here
+        - 01 What is machine learning
+        - 02 Linear regression
+        - 03 Logistic regression
+        - 04 Decision trees and random forests
+        - 05 KNN and SVM
+        - 06 Naive Bayes and unsupervised learning
+        - 07 Clustering and PCA
+        - 08 Overfitting and cross-validation
+        - 09 Final project
+        - Course overview (main README)
+    validations:
+      required: true
+  - type: dropdown
+    id: kind
+    attributes:
+      label: What kind of feedback?
+      options:
+        - Typo or wording
+        - Confusing explanation
+        - Diagram could be clearer
+        - Code doesn't run
+        - Something else
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: Quote the sentence or describe the diagram, and tell us what confused you.
+    validations:
+      required: true

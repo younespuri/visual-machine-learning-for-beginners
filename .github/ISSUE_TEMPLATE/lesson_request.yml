@@ -1,0 +1,15 @@
+name: Lesson or topic request
+description: Suggest a topic you'd like explained visually
+labels: [lesson-request]
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      placeholder: e.g. gradient boosting, neural networks, recommender systems
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: What do you find hard about it today?
