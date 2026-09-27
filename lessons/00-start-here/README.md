@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 00 of 09
 
-# 00 · Start Here
+# 00 · Start Here: Your First Machine Learning Model
 
 **Everything you need before lesson 01: your tools, the key words, and the recipe every ML project follows.**
 

@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 07 of 09
 
-# 07 · Clustering and PCA
+# 07 · K-Means Clustering and PCA, Explained Visually
 
 **Let unlabeled data sort itself into groups, then squeeze dozens of features into a picture you can see.**
 

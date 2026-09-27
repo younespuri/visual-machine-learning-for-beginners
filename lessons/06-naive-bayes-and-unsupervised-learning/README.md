@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 06 of 09
 
-# 06 · Naive Bayes and Unsupervised Learning
+# 06 · Naive Bayes and Unsupervised Learning, Explained Visually
 
 **Weigh every word as evidence to catch spam, then take the answers away and find the groups hiding in your data.**
 

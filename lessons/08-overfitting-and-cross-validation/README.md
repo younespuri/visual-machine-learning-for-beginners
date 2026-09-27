@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 08 of 09
 
-# 08 · Overfitting and Cross-Validation
+# 08 · Overfitting vs. Underfitting and Cross-Validation, Explained Visually
 
 **A model that aces its training data can still fail on new data. Learn to catch it, and to grade every model fairly.**
 

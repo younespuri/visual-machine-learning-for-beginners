@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 03 of 09
 
-# 03 · Logistic Regression
+# 03 · Logistic Regression and the Confusion Matrix, Explained Visually
 
 **Answer yes-or-no questions with a probability, then grade those answers honestly.**
 

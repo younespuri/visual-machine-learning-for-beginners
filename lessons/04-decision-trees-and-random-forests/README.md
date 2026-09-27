@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 04 of 09
 
-# 04 · Decision Trees and Random Forests
+# 04 · Decision Trees vs. Random Forests, Explained Visually
 
 **Ask a few yes/no questions to reach an answer, then let a whole forest of trees vote on it.**
 

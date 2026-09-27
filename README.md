@@ -2,6 +2,8 @@
   <img src="assets/banner.png" alt="Machine Learning, Visually: learn ML from zero, every idea drawn" width="100%">
 </p>
 
+<h1 align="center">Machine Learning for Beginners, Explained Visually</h1>
+
 <p align="center">
   <b>A free, beginner-friendly machine learning course where every idea is explained with a diagram.</b><br>
   10 lessons &nbsp;·&nbsp; 40+ diagrams and animations &nbsp;·&nbsp; runnable notebooks &nbsp;·&nbsp; real, tested code

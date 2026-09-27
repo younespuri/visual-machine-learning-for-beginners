@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 05 of 09
 
-# 05 · KNN and SVM
+# 05 · K-Nearest Neighbors (KNN) and Support Vector Machines (SVM), Explained Visually
 
 **Two ways to classify: ask the nearest neighbors, or draw the widest possible street between the classes.**
 

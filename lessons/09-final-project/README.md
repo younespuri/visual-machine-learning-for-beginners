@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 09 of 09
 
-# 09 · Final Project
+# 09 · Final Project: An End-to-End Machine Learning Project in Python
 
 **Put the whole course to work on one real dataset, from a raw table to a tested, explained model you can actually trust.**
 

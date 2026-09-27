@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 01 of 09
 
-# 01 · What Is Machine Learning?
+# 01 · What Is Machine Learning? AI vs. ML vs. Deep Learning
 
 **Stop writing the rules yourself. Show the computer examples and let it find the rules.**
 

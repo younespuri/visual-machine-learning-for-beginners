@@ -1,6 +1,6 @@
 [Course home](../../README.md) · Lesson 02 of 09
 
-# 02 · Linear Regression
+# 02 · Linear Regression and Gradient Descent, Explained Visually
 
 **Draw the best straight line through your data, then use it to predict.**
 
